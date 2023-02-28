@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjilAqaQNHhTRFNEJR5WMc9rERGHaFIsHy5krnGatUQQVFeNL83LxIbYCsA+poVX1/0u21A7j5PQoWoZmGfwkA==",
+  "success": true,
+  "projectFilePath": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj",
+  "expectedPackageFiles": [
+    "/home/brandon/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/brandon/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

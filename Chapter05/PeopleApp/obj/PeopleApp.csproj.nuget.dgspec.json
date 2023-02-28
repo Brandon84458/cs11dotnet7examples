@@ -1,0 +1,177 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PeopleApp/PeopleApp.csproj": {}
+  },
+  "projects": {
+    "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj",
+        "projectName": "PacktLibraryModern",
+        "projectPath": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj",
+        "packagesPath": "/home/brandon/.nuget/packages/",
+        "outputPath": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/brandon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj",
+        "projectName": "PacktLibraryNetStandard2",
+        "projectPath": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj",
+        "packagesPath": "/home/brandon/.nuget/packages/",
+        "outputPath": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryNetStandard2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/brandon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PeopleApp/PeopleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PeopleApp/PeopleApp.csproj",
+        "projectName": "PeopleApp",
+        "projectPath": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PeopleApp/PeopleApp.csproj",
+        "packagesPath": "/home/brandon/.nuget/packages/",
+        "outputPath": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PeopleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/brandon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj": {
+                "projectPath": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj"
+              },
+              "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj": {
+                "projectPath": "/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

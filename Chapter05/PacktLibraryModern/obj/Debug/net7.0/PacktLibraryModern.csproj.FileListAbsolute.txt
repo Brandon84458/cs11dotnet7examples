@@ -1,0 +1,12 @@
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/bin/Debug/net7.0/PacktLibraryModern.deps.json
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/bin/Debug/net7.0/PacktLibraryModern.dll
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/bin/Debug/net7.0/PacktLibraryModern.pdb
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.csproj.AssemblyReference.cache
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.AssemblyInfoInputs.cache
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.AssemblyInfo.cs
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.csproj.CoreCompileInputs.cache
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.dll
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/obj/Debug/net7.0/refint/PacktLibraryModern.dll
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.pdb
+/home/brandon/Documents/CSc346/cs11dotnet7/Chapter05/PacktLibraryModern/obj/Debug/net7.0/ref/PacktLibraryModern.dll
